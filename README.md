@@ -8,13 +8,15 @@ A Go module for decoding the WebP image format, heavily inspired by existing imp
 
 ## Inspecting Webp file
 
-`file {.webp}` // e.g. RIFF (little-endian) data, Web/P image
+[The official CLIs](https://developers.google.com/speed/webp/download)
 
-`hexdump {.webp}`
+`file {filename}` // e.g. RIFF (little-endian) data, Web/P image
 
-`wc -c {.webp}`
+`hexdump {filename}`
 
-For more
+`wc -c {filename}`
+
+For advanced viewing and editing, consider using a graphics software or hex editor.
 
 ## Documentation & Specification
 
