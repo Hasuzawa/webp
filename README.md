@@ -28,14 +28,18 @@ For advanced viewing and editing, consider using a graphics software or hex edit
 
 [VP8 Data Format and Decoding Guide | RFC 6386](https://datatracker.ietf.org/doc/html/rfc6386)
 
+[WebP file format | FileFormat](https://docs.fileformat.com/image/webp/)
+
 ## Reference
 
-[Experimental module Go webp | Google](https://pkg.go.dev/golang.org/x/image/webp)
+[Experimental module Go image/webp](https://pkg.go.dev/golang.org/x/image/webp)
 
 [Go image/png](https://pkg.go.dev/image/png)
 
 [Go image/jpeg](https://pkg.go.dev/image/jpeg)
 
 [Go image/gif](https://pkg.go.dev/image/gif)
+
+[Experimental module image/riff](https://pkg.go.dev/golang.org/x/image/riff)
 
 [go-webp | kolesa-team](https://github.com/kolesa-team/go-webp)
